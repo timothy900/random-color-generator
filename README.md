@@ -1,3 +1,2 @@
-# random-color-generator
-2nd repository
-i made this. i have nothing else to say/type.
+# Random-Color-Generator
+2nd repository. The background color changes when you click the button.
